@@ -1,3 +1,3 @@
- A simple Generative Adversarial Network in Pytorch
+This is a simple implementaiton of GAN in pytorch the comments and markdowns in the .ipynb file will act as a guide for better understanding.
 
 
